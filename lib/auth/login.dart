@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:ridehailing/auth/regs.dart';
 
 class SignIn extends StatefulWidget {
   const SignIn({super.key});
